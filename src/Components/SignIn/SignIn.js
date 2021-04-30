@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import styles from "./SignIn.module.css";
 import bgimg from "../../assets/binge.gif";
 
